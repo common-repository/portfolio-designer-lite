@@ -1,0 +1,1460 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolio Designer Lite\n"
+"POT-Creation-Date: 2024-08-09 18:49+0530\n"
+"PO-Revision-Date: 2017-06-30 11:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: Solwin Infotech <info@solwininfotech.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c;"
+"_nx:1,2c;esc_attr_e;esc_attr__;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/functions.php:63
+msgid "Posts navigation"
+msgstr ""
+
+#: includes/functions.php:281
+msgid ""
+"GD Library Error: imagecreatetruecolor does not exist - please contact your "
+"webhost and ask them to install the GD library"
+msgstr ""
+
+#: includes/functions.php:323 includes/portfolio_settings.php:1031
+msgid "Select Content Position"
+msgstr ""
+
+#: includes/functions.php:330 includes/portfolio_settings.php:1038
+msgid "Overlay on Image"
+msgstr ""
+
+#: includes/functions.php:334 includes/portfolio_settings.php:1040
+msgid "Bottom of Image"
+msgstr ""
+
+#: includes/functions.php:335 includes/portfolio_settings.php:1041
+msgid "Left side of Image"
+msgstr ""
+
+#: includes/functions.php:336 includes/portfolio_settings.php:1042
+msgid "Right side of Image"
+msgstr ""
+
+#: includes/portfolio_settings.php:37 portfolio-designer-lite.php:181
+msgid "Portfolio Designer Lite Settings"
+msgstr ""
+
+#: includes/portfolio_settings.php:42 portfolio-designer-lite.php:278
+msgid "View Portfolio"
+msgstr ""
+
+#: includes/portfolio_settings.php:44
+msgid "Portfolio Designer Lite Settings Updated."
+msgstr ""
+
+#: includes/portfolio_settings.php:66 includes/portfolio_settings.php:67
+msgid "Show Preview"
+msgstr ""
+
+#: includes/portfolio_settings.php:69 includes/portfolio_settings.php:70
+msgid "Save Changes"
+msgstr ""
+
+#: includes/portfolio_settings.php:72 includes/portfolio_settings.php:73
+msgid "Reset Changes"
+msgstr ""
+
+#: includes/portfolio_settings.php:94
+msgid "General Settings"
+msgstr ""
+
+#: includes/portfolio_settings.php:103
+msgid "Query Settings"
+msgstr ""
+
+#: includes/portfolio_settings.php:112
+msgid "Layout Settings"
+msgstr ""
+
+#: includes/portfolio_settings.php:121
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: includes/portfolio_settings.php:130
+msgid "Filter Settings"
+msgstr ""
+
+#: includes/portfolio_settings.php:139
+msgid "Pagination Settings"
+msgstr ""
+
+#: includes/portfolio_settings.php:148
+msgid "Social Share Settings"
+msgstr ""
+
+#: includes/portfolio_settings.php:157
+msgid "Style Settings"
+msgstr ""
+
+#: includes/portfolio_settings.php:171
+msgid "Select Post Type for Portfolio"
+msgstr ""
+
+#: includes/portfolio_settings.php:198
+msgid "Display Portfolio on page"
+msgstr ""
+
+#: includes/portfolio_settings.php:214
+msgid "Select Page"
+msgstr ""
+
+#: includes/portfolio_settings.php:224 includes/portfolio_settings.php:820
+#: includes/portfolio_settings.php:1079 includes/portfolio_settings.php:1126
+#: includes/portfolio_settings.php:1244
+msgid "Note"
+msgstr ""
+
+#: includes/portfolio_settings.php:226
+msgid ""
+"You are about to select the page for your portfolio layout, you will lose "
+"your page content. There is no undo. Think about it!"
+msgstr ""
+
+#: includes/portfolio_settings.php:236
+msgid "Class Name"
+msgstr ""
+
+#: includes/portfolio_settings.php:243
+msgid "Enter class name"
+msgstr ""
+
+#: includes/portfolio_settings.php:248 includes/portfolio_settings.php:253
+msgid "Delete data on deletion of plugin"
+msgstr ""
+
+#: includes/portfolio_settings.php:261
+msgid "Display Setting"
+msgstr ""
+
+#: includes/portfolio_settings.php:265
+msgid "Display Date"
+msgstr ""
+
+#: includes/portfolio_settings.php:278 includes/portfolio_settings.php:331
+#: includes/portfolio_settings.php:579 includes/portfolio_settings.php:601
+#: includes/portfolio_settings.php:640 includes/portfolio_settings.php:841
+#: includes/portfolio_settings.php:1023 includes/portfolio_settings.php:1157
+#: includes/portfolio_settings.php:1205 includes/portfolio_settings.php:1231
+#: includes/portfolio_settings.php:1741 includes/portfolio_settings.php:1758
+#: includes/portfolio_settings.php:1781 includes/portfolio_settings.php:1804
+#: includes/portfolio_settings.php:1839 includes/portfolio_settings.php:1863
+#: includes/portfolio_settings.php:1887 includes/portfolio_settings.php:1911
+#: includes/portfolio_settings.php:1935 includes/portfolio_settings.php:1959
+#: includes/portfolio_settings.php:1983 includes/portfolio_settings.php:2008
+#: includes/portfolio_settings.php:2031 includes/portfolio_settings.php:2098
+#: includes/portfolio_settings.php:2120 includes/portfolio_settings.php:2251
+msgid "Yes"
+msgstr ""
+
+#: includes/portfolio_settings.php:280 includes/portfolio_settings.php:333
+#: includes/portfolio_settings.php:581 includes/portfolio_settings.php:603
+#: includes/portfolio_settings.php:642 includes/portfolio_settings.php:843
+#: includes/portfolio_settings.php:1025 includes/portfolio_settings.php:1159
+#: includes/portfolio_settings.php:1207 includes/portfolio_settings.php:1233
+#: includes/portfolio_settings.php:1743 includes/portfolio_settings.php:1760
+#: includes/portfolio_settings.php:1783 includes/portfolio_settings.php:1806
+#: includes/portfolio_settings.php:1841 includes/portfolio_settings.php:1865
+#: includes/portfolio_settings.php:1889 includes/portfolio_settings.php:1913
+#: includes/portfolio_settings.php:1937 includes/portfolio_settings.php:1961
+#: includes/portfolio_settings.php:1985 includes/portfolio_settings.php:2010
+#: includes/portfolio_settings.php:2033 includes/portfolio_settings.php:2100
+#: includes/portfolio_settings.php:2122 includes/portfolio_settings.php:2253
+msgid "No"
+msgstr ""
+
+#: includes/portfolio_settings.php:367
+msgid "Select Taxonomy Type to Filter Posts"
+msgstr ""
+
+#: includes/portfolio_settings.php:400
+msgid "Select Terms to Filter Posts"
+msgstr ""
+
+#: includes/portfolio_settings.php:424
+msgid "Terms filter with"
+msgstr ""
+
+#: includes/portfolio_settings.php:430
+msgid "OR"
+msgstr ""
+
+#: includes/portfolio_settings.php:432
+msgid "AND"
+msgstr ""
+
+#: includes/portfolio_settings.php:438
+msgid "Select Posts"
+msgstr ""
+
+#: includes/portfolio_settings.php:475
+msgid "Leave blank if you want to show all posts."
+msgstr ""
+
+#: includes/portfolio_settings.php:480
+msgid "Display Number of Posts"
+msgstr ""
+
+#: includes/portfolio_settings.php:486
+msgid "Number of posts to be shown in showcase page."
+msgstr ""
+
+#: includes/portfolio_settings.php:492
+msgid "Display Number of Posts on Preview Page"
+msgstr ""
+
+#: includes/portfolio_settings.php:499
+msgid "Number of posts to be shown in preview page."
+msgstr ""
+
+#: includes/portfolio_settings.php:503 includes/portfolio_settings.php:957
+#: includes/portfolio_settings.php:1162 includes/portfolio_settings.php:1210
+#: includes/portfolio_settings.php:2230
+msgid "Note: "
+msgstr ""
+
+#: includes/portfolio_settings.php:505
+msgid ""
+"If Layout type is \"3D Carousel\" then set only odd number ex. 3,5,7,..."
+msgstr ""
+
+#: includes/portfolio_settings.php:514
+msgid "No Post Found Text"
+msgstr ""
+
+#: includes/portfolio_settings.php:519
+msgid "No posts found."
+msgstr ""
+
+#: includes/portfolio_settings.php:521
+msgid "Enter No Posts Found text"
+msgstr ""
+
+#: includes/portfolio_settings.php:526
+msgid "Order By"
+msgstr ""
+
+#: includes/portfolio_settings.php:532
+msgid "Author"
+msgstr ""
+
+#: includes/portfolio_settings.php:533
+msgid "Comment Count"
+msgstr ""
+
+#: includes/portfolio_settings.php:534
+msgid "Date"
+msgstr ""
+
+#: includes/portfolio_settings.php:535
+msgid "ID"
+msgstr ""
+
+#: includes/portfolio_settings.php:536
+msgid "Modified Date"
+msgstr ""
+
+#: includes/portfolio_settings.php:537
+msgid "Name"
+msgstr ""
+
+#: includes/portfolio_settings.php:538
+msgid "Title"
+msgstr ""
+
+#: includes/portfolio_settings.php:539
+msgid "Random"
+msgstr ""
+
+#: includes/portfolio_settings.php:542
+msgid "Parameter to sort posts."
+msgstr ""
+
+#: includes/portfolio_settings.php:547
+msgid "Order"
+msgstr ""
+
+#: includes/portfolio_settings.php:555
+msgid "Ascending Order"
+msgstr ""
+
+#: includes/portfolio_settings.php:556
+msgid "Descending Order"
+msgstr ""
+
+#: includes/portfolio_settings.php:559
+msgid ""
+"Descending order from highest to lowest values ( 3,2,1; c,b,a ) or Ascending "
+"order from lowest to highest values ( 1,2,3; a,b,c)."
+msgstr ""
+
+#: includes/portfolio_settings.php:567
+msgid "Ignore Sticky Post"
+msgstr ""
+
+#: includes/portfolio_settings.php:589
+msgid "Display Sort By"
+msgstr ""
+
+#: includes/portfolio_settings.php:613
+msgid "Top Filter Alignment"
+msgstr ""
+
+#: includes/portfolio_settings.php:620 includes/portfolio_settings.php:1400
+#: includes/portfolio_settings.php:1633 includes/portfolio_settings.php:2159
+#: includes/portfolio_settings.php:2318 includes/portfolio_settings.php:2423
+#: includes/portfolio_settings.php:2502
+msgid "Left"
+msgstr ""
+
+#: includes/portfolio_settings.php:621 includes/portfolio_settings.php:1392
+#: includes/portfolio_settings.php:1635 includes/portfolio_settings.php:2058
+#: includes/portfolio_settings.php:2160 includes/portfolio_settings.php:2310
+#: includes/portfolio_settings.php:2424 includes/portfolio_settings.php:2492
+msgid "Right"
+msgstr ""
+
+#: includes/portfolio_settings.php:622 includes/portfolio_settings.php:1634
+#: includes/portfolio_settings.php:2161 includes/portfolio_settings.php:2425
+msgid "Center"
+msgstr ""
+
+#: includes/portfolio_settings.php:631
+msgid "Display Sorting Order"
+msgstr ""
+
+#: includes/portfolio_settings.php:659
+msgid "Select Layout Type"
+msgstr ""
+
+#: includes/portfolio_settings.php:665
+msgid "Grid Layout"
+msgstr ""
+
+#: includes/portfolio_settings.php:666
+msgid "Masonry Layout"
+msgstr ""
+
+#: includes/portfolio_settings.php:673
+msgid "Select Column Layout(Desktop)"
+msgstr ""
+
+#: includes/portfolio_settings.php:679 includes/portfolio_settings.php:694
+msgid "3 Columns"
+msgstr ""
+
+#: includes/portfolio_settings.php:682
+msgid "Column layout for (Desktop - Above 980px)"
+msgstr ""
+
+#: includes/portfolio_settings.php:688
+msgid "Select Column Layout(ipad)"
+msgstr ""
+
+#: includes/portfolio_settings.php:697
+msgid "Column layout for (iPad - 720px - 980px) "
+msgstr ""
+
+#: includes/portfolio_settings.php:703
+msgid "Select Column Layout(Tablet)"
+msgstr ""
+
+#: includes/portfolio_settings.php:709
+msgid "2 Columns"
+msgstr ""
+
+#: includes/portfolio_settings.php:712
+msgid "Column layout for (Tablet - 480px - 720px)"
+msgstr ""
+
+#: includes/portfolio_settings.php:718
+msgid "Select Column Layout(Mobile)"
+msgstr ""
+
+#: includes/portfolio_settings.php:724
+msgid "1 Column"
+msgstr ""
+
+#: includes/portfolio_settings.php:727
+msgid "Column layout for (Mobile - Smaller Than 480px) "
+msgstr ""
+
+#: includes/portfolio_settings.php:732
+msgid "Select Column Spaces"
+msgstr ""
+
+#: includes/portfolio_settings.php:751
+msgid "Horizontal space between two posts."
+msgstr ""
+
+#: includes/portfolio_settings.php:756
+msgid "Select Rows Spaces"
+msgstr ""
+
+#: includes/portfolio_settings.php:775
+msgid "Vertical space between two posts."
+msgstr ""
+
+#: includes/portfolio_settings.php:792
+msgid "Select Thumbnail Size"
+msgstr ""
+
+#: includes/portfolio_settings.php:798
+msgid "Original Resolution"
+msgstr ""
+
+#: includes/portfolio_settings.php:821
+msgid ""
+"The original resolution is loaded if a thumbnail size doesn't exist in an "
+"image. "
+msgstr ""
+
+#: includes/portfolio_settings.php:829
+msgid "Enable link on Image"
+msgstr ""
+
+#: includes/portfolio_settings.php:849
+msgid "Select Default Image"
+msgstr ""
+
+#: includes/portfolio_settings.php:860 includes/portfolio_settings.php:883
+msgid "Remove Image"
+msgstr ""
+
+#: includes/portfolio_settings.php:862 includes/portfolio_settings.php:885
+msgid "Upload Image"
+msgstr ""
+
+#: includes/portfolio_settings.php:871
+msgid "Select HTML5 Poster Image"
+msgstr ""
+
+#: includes/portfolio_settings.php:894
+msgid "Media Source"
+msgstr ""
+
+#: includes/portfolio_settings.php:958
+msgid ""
+" First Media Source will be loaded as default. In case one source does not "
+"exist, next available media source in this order will be used."
+msgstr ""
+
+#: includes/portfolio_settings.php:964
+msgid "Image Overlay Effect"
+msgstr ""
+
+#: includes/portfolio_settings.php:969
+msgid "Apply Image Overlay Effects"
+msgstr ""
+
+#: includes/portfolio_settings.php:975
+msgid "Select Mouse Hover Effect"
+msgstr ""
+
+#: includes/portfolio_settings.php:981
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/portfolio_settings.php:982
+msgid "Overlay Slide"
+msgstr ""
+
+#: includes/portfolio_settings.php:983
+msgid "Corner Slide"
+msgstr ""
+
+#: includes/portfolio_settings.php:984
+msgid "Rotating Zoom Out"
+msgstr ""
+
+#: includes/portfolio_settings.php:985
+msgid "Right Corner"
+msgstr ""
+
+#: includes/portfolio_settings.php:986
+msgid "Left Corner"
+msgstr ""
+
+#: includes/portfolio_settings.php:987
+msgid "Depth Zoom In"
+msgstr ""
+
+#: includes/portfolio_settings.php:988
+msgid "Depth Zoom Out"
+msgstr ""
+
+#: includes/portfolio_settings.php:989
+msgid "Depth Rotator"
+msgstr ""
+
+#: includes/portfolio_settings.php:990
+msgid "Rotator"
+msgstr ""
+
+#: includes/portfolio_settings.php:991
+msgid "Slide Top"
+msgstr ""
+
+#: includes/portfolio_settings.php:992
+msgid "Slide Right"
+msgstr ""
+
+#: includes/portfolio_settings.php:993
+msgid "Slide Bottom"
+msgstr ""
+
+#: includes/portfolio_settings.php:994
+msgid "Slide Left"
+msgstr ""
+
+#: includes/portfolio_settings.php:995
+msgid "Enclose ZoomIn"
+msgstr ""
+
+#: includes/portfolio_settings.php:996
+msgid "Enclose ZoomOut"
+msgstr ""
+
+#: includes/portfolio_settings.php:997
+msgid "Enclose FaddeIn"
+msgstr ""
+
+#: includes/portfolio_settings.php:998
+msgid "Enclose FaddeOut"
+msgstr ""
+
+#: includes/portfolio_settings.php:1009
+msgid "Hide Hover Effect On Mobile Device"
+msgstr ""
+
+#: includes/portfolio_settings.php:1050
+msgid "Select Border Radius"
+msgstr ""
+
+#: includes/portfolio_settings.php:1073
+msgid "Display Summary in Words"
+msgstr ""
+
+#: includes/portfolio_settings.php:1079
+msgid "Set ZERO for disable summary."
+msgstr ""
+
+#: includes/portfolio_settings.php:1086
+msgid "Show Image Popup Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1091
+msgid "Display popup link when hover on image"
+msgstr ""
+
+#: includes/portfolio_settings.php:1098
+msgid "Select Image Popup icon from list"
+msgstr ""
+
+#: includes/portfolio_settings.php:1107
+msgid "Select Gallery Icon"
+msgstr ""
+
+#: includes/portfolio_settings.php:1112
+msgid "Project URL Open In"
+msgstr ""
+
+#: includes/portfolio_settings.php:1118
+msgid "Disable"
+msgstr ""
+
+#: includes/portfolio_settings.php:1119
+msgid "Same Tab"
+msgstr ""
+
+#: includes/portfolio_settings.php:1120
+msgid "New Tab"
+msgstr ""
+
+#: includes/portfolio_settings.php:1124
+msgid "The project URL while adding single custom post type."
+msgstr ""
+
+#: includes/portfolio_settings.php:1127
+msgid ""
+"This will work only for custom post type generated by this plugin, on image "
+"hover."
+msgstr ""
+
+#: includes/portfolio_settings.php:1145
+msgid "Enable Filter?"
+msgstr ""
+
+#: includes/portfolio_settings.php:1163
+msgid "If you enable filter then Pagination Settings does not apply"
+msgstr ""
+
+#: includes/portfolio_settings.php:1171
+msgid "Select Filter Design"
+msgstr ""
+
+#: includes/portfolio_settings.php:1178
+msgid "Template 1"
+msgstr ""
+
+#: includes/portfolio_settings.php:1179
+msgid "Template 2"
+msgstr ""
+
+#: includes/portfolio_settings.php:1180
+msgid "Template 3"
+msgstr ""
+
+#: includes/portfolio_settings.php:1181
+msgid "Template 4"
+msgstr ""
+
+#: includes/portfolio_settings.php:1193
+msgid "Display Count with filter"
+msgstr ""
+
+#: includes/portfolio_settings.php:1211
+msgid ""
+"If you select Justify layout then \"Display Count with filter\" option does "
+"not apply"
+msgstr ""
+
+#: includes/portfolio_settings.php:1219
+msgid "Display Checkbox with filter"
+msgstr ""
+
+#: includes/portfolio_settings.php:1239
+msgid "Text of \"Show All\" filter tag"
+msgstr ""
+
+#: includes/portfolio_settings.php:1242
+msgid "Show All"
+msgstr ""
+
+#: includes/portfolio_settings.php:1245
+msgid "If you will set blank then default text will be \"Show All\"."
+msgstr ""
+
+#: includes/portfolio_settings.php:1252
+msgid "Filter Typography"
+msgstr ""
+
+#: includes/portfolio_settings.php:1256
+msgid "Select Filter Font Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:1262
+msgid "Select Filter Font Family"
+msgstr ""
+
+#: includes/portfolio_settings.php:1271 includes/portfolio_settings.php:1653
+#: includes/portfolio_settings.php:2201 includes/portfolio_settings.php:2281
+#: includes/portfolio_settings.php:2463 includes/portfolio_settings.php:2654
+msgid "Default"
+msgstr ""
+
+#: includes/portfolio_settings.php:1277
+msgid "Select Filter Font Size"
+msgstr ""
+
+#: includes/portfolio_settings.php:1308 includes/portfolio_settings.php:2347
+#: includes/portfolio_settings.php:2542
+msgid "Font Weight"
+msgstr ""
+
+#: includes/portfolio_settings.php:1321 includes/portfolio_settings.php:2361
+#: includes/portfolio_settings.php:2555
+msgid "Bold"
+msgstr ""
+
+#: includes/portfolio_settings.php:1322 includes/portfolio_settings.php:2351
+#: includes/portfolio_settings.php:2556
+msgid "Normal"
+msgstr ""
+
+#: includes/portfolio_settings.php:1327 includes/portfolio_settings.php:2366
+#: includes/portfolio_settings.php:2561
+msgid "Text Transform"
+msgstr ""
+
+#: includes/portfolio_settings.php:1331 includes/portfolio_settings.php:1344
+#: includes/portfolio_settings.php:1421 includes/portfolio_settings.php:2370
+#: includes/portfolio_settings.php:2383 includes/portfolio_settings.php:2565
+#: includes/portfolio_settings.php:2578
+msgid "None"
+msgstr ""
+
+#: includes/portfolio_settings.php:1332 includes/portfolio_settings.php:2371
+#: includes/portfolio_settings.php:2566
+msgid "Capitalize"
+msgstr ""
+
+#: includes/portfolio_settings.php:1333 includes/portfolio_settings.php:2372
+#: includes/portfolio_settings.php:2567
+msgid "Uppercase"
+msgstr ""
+
+#: includes/portfolio_settings.php:1334 includes/portfolio_settings.php:2373
+#: includes/portfolio_settings.php:2568
+msgid "Lowercase"
+msgstr ""
+
+#: includes/portfolio_settings.php:1335 includes/portfolio_settings.php:2374
+#: includes/portfolio_settings.php:2569
+msgid "Full Width"
+msgstr ""
+
+#: includes/portfolio_settings.php:1340 includes/portfolio_settings.php:2379
+#: includes/portfolio_settings.php:2574
+msgid "Text Decoration"
+msgstr ""
+
+#: includes/portfolio_settings.php:1345 includes/portfolio_settings.php:2384
+#: includes/portfolio_settings.php:2579
+msgid "Underline"
+msgstr ""
+
+#: includes/portfolio_settings.php:1346 includes/portfolio_settings.php:2385
+#: includes/portfolio_settings.php:2580
+msgid "Overline"
+msgstr ""
+
+#: includes/portfolio_settings.php:1347 includes/portfolio_settings.php:2386
+#: includes/portfolio_settings.php:2581
+msgid "Line Through"
+msgstr ""
+
+#: includes/portfolio_settings.php:1352 includes/portfolio_settings.php:2391
+#: includes/portfolio_settings.php:2586
+msgid "Italic Style "
+msgstr ""
+
+#: includes/portfolio_settings.php:1356 includes/portfolio_settings.php:2395
+#: includes/portfolio_settings.php:2592
+msgid "Line Height"
+msgstr ""
+
+#: includes/portfolio_settings.php:1363 includes/portfolio_settings.php:2402
+#: includes/portfolio_settings.php:2599
+msgid "Letter Spacing (px)"
+msgstr ""
+
+#: includes/portfolio_settings.php:1376
+msgid "Filter Text Padding"
+msgstr ""
+
+#: includes/portfolio_settings.php:1388 includes/portfolio_settings.php:2059
+#: includes/portfolio_settings.php:2306 includes/portfolio_settings.php:2336
+#: includes/portfolio_settings.php:2487
+msgid "Top"
+msgstr ""
+
+#: includes/portfolio_settings.php:1396 includes/portfolio_settings.php:2057
+#: includes/portfolio_settings.php:2314 includes/portfolio_settings.php:2340
+#: includes/portfolio_settings.php:2497
+msgid "Bottom"
+msgstr ""
+
+#: includes/portfolio_settings.php:1407
+msgid "Filter Text Border"
+msgstr ""
+
+#: includes/portfolio_settings.php:1422
+msgid "Solid"
+msgstr ""
+
+#: includes/portfolio_settings.php:1423
+msgid "Dotted"
+msgstr ""
+
+#: includes/portfolio_settings.php:1424
+msgid "Dashed"
+msgstr ""
+
+#: includes/portfolio_settings.php:1425
+msgid "Double"
+msgstr ""
+
+#: includes/portfolio_settings.php:1437
+msgid "Filter Text Background Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:1458
+msgid "Enable Pagination?"
+msgstr ""
+
+#: includes/portfolio_settings.php:1468
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/portfolio_settings.php:1474
+msgid "Pagination"
+msgstr ""
+
+#: includes/portfolio_settings.php:1481
+msgid "Pagination Template"
+msgstr ""
+
+#: includes/portfolio_settings.php:1487
+msgid "Template-1"
+msgstr ""
+
+#: includes/portfolio_settings.php:1488
+msgid "Template-2"
+msgstr ""
+
+#: includes/portfolio_settings.php:1489
+msgid "Template-3"
+msgstr ""
+
+#: includes/portfolio_settings.php:1490
+msgid "Template-4"
+msgstr ""
+
+#: includes/portfolio_settings.php:1503
+msgid "Select Pagination Text Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:1514
+msgid "Select Pagination Background Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:1525
+msgid "Select Pagination Text Hover Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:1536
+msgid "Select Pagination Background Hover Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:1548
+msgid "Select Pagination Active Text Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:1558
+msgid "Select Pagination Active Background Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:1568
+msgid "Select Pagination Border Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:1589
+msgid "Social Share Links"
+msgstr ""
+
+#: includes/portfolio_settings.php:1599
+msgid "Enable Social Share Settings"
+msgstr ""
+
+#: includes/portfolio_settings.php:1603
+msgid "Social Icon Display Position"
+msgstr ""
+
+#: includes/portfolio_settings.php:1614
+msgid "Before Loop"
+msgstr ""
+
+#: includes/portfolio_settings.php:1616
+msgid "After Loop"
+msgstr ""
+
+#: includes/portfolio_settings.php:1622
+msgid "Select Social Icon Alignment"
+msgstr ""
+
+#: includes/portfolio_settings.php:1642
+msgid "Social Share Style"
+msgstr ""
+
+#: includes/portfolio_settings.php:1655
+msgid "Custom"
+msgstr ""
+
+#: includes/portfolio_settings.php:1661
+msgid "Available Icon Themes"
+msgstr ""
+
+#: includes/portfolio_settings.php:1687
+msgid "Shape of Social Icon"
+msgstr ""
+
+#: includes/portfolio_settings.php:1698
+msgid "Square"
+msgstr ""
+
+#: includes/portfolio_settings.php:1700
+msgid "Circle"
+msgstr ""
+
+#: includes/portfolio_settings.php:1706
+msgid "Size of Social Icon"
+msgstr ""
+
+#: includes/portfolio_settings.php:1717
+msgid "Small"
+msgstr ""
+
+#: includes/portfolio_settings.php:1719
+msgid "Large"
+msgstr ""
+
+#: includes/portfolio_settings.php:1725
+msgid "Show Facebook Share Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1748
+msgid "Show Twitter Share Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1765
+msgid "Show Linkedin Share Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1788
+msgid "Show Pinterest Share link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1816
+msgid "Hide Pinterest Share Count"
+msgstr ""
+
+#: includes/portfolio_settings.php:1826
+msgid "Show Skype Share Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1850
+msgid "Show Pocket Share Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1874
+msgid "Show Telegram Share Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1898
+msgid "Show Reddit Share Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1922
+msgid "Show Digg Share Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1946
+msgid "Show Tumblr Share Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1970
+msgid "Show WordPress Share Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:1995
+msgid "Show WhatsApp Share Link"
+msgstr ""
+
+#: includes/portfolio_settings.php:2019
+msgid "Show Share Via Mail"
+msgstr ""
+
+#: includes/portfolio_settings.php:2045
+msgid "Select Social Share Count Position"
+msgstr ""
+
+#: includes/portfolio_settings.php:2077
+msgid "Title Typography"
+msgstr ""
+
+#: includes/portfolio_settings.php:2086
+msgid "Display Title?"
+msgstr ""
+
+#: includes/portfolio_settings.php:2108
+msgid "Enable Title Link?"
+msgstr ""
+
+#: includes/portfolio_settings.php:2130
+msgid "Title HTML Tag?"
+msgstr ""
+
+#: includes/portfolio_settings.php:2152
+msgid "Title Alignment"
+msgstr ""
+
+#: includes/portfolio_settings.php:2170
+msgid "Select Title Background Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:2179
+msgid "Select Title Font Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:2188
+msgid "Select Title Font Family"
+msgstr ""
+
+#: includes/portfolio_settings.php:2211
+msgid "Select Title Font Size"
+msgstr ""
+
+#: includes/portfolio_settings.php:2230
+msgid "If want to default font size set value ZERO."
+msgstr ""
+
+#: includes/portfolio_settings.php:2237
+msgid "Post Title Maximun Line"
+msgstr ""
+
+#: includes/portfolio_settings.php:2259
+msgid "Dispaly Maximun Number of Line"
+msgstr ""
+
+#: includes/portfolio_settings.php:2272
+msgid "Post Title Break Words"
+msgstr ""
+
+#: includes/portfolio_settings.php:2283
+msgid "Break all"
+msgstr ""
+
+#: includes/portfolio_settings.php:2285
+msgid "Break word"
+msgstr ""
+
+#: includes/portfolio_settings.php:2294
+msgid "Padding Title Section"
+msgstr ""
+
+#: includes/portfolio_settings.php:2326
+msgid "Margin Title Section"
+msgstr ""
+
+#: includes/portfolio_settings.php:2410
+msgid "Content Typography"
+msgstr ""
+
+#: includes/portfolio_settings.php:2416
+msgid "Content Alignment"
+msgstr ""
+
+#: includes/portfolio_settings.php:2434
+msgid "Select Content Background Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:2443
+msgid "Select Content Font Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:2451
+msgid "Select Content Font Family"
+msgstr ""
+
+#: includes/portfolio_settings.php:2475
+msgid "Padding Content Section"
+msgstr ""
+
+#: includes/portfolio_settings.php:2510
+msgid "Select Content Font Size"
+msgstr ""
+
+#: includes/portfolio_settings.php:2607
+msgid "Content background Typography"
+msgstr ""
+
+#: includes/portfolio_settings.php:2611
+msgid "Content Background Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:2619
+msgid "Image Hover Background Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:2627
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/portfolio_settings.php:2638
+msgid "Button Typography"
+msgstr ""
+
+#: includes/portfolio_settings.php:2642
+msgid "Button Font Family"
+msgstr ""
+
+#: includes/portfolio_settings.php:2663
+msgid "Button Font Size"
+msgstr ""
+
+#: includes/portfolio_settings.php:2685
+msgid "Button Type"
+msgstr ""
+
+#: includes/portfolio_settings.php:2693
+msgid "Rectangle"
+msgstr ""
+
+#: includes/portfolio_settings.php:2695
+msgid "Oval"
+msgstr ""
+
+#: includes/portfolio_settings.php:2701
+msgid "Button Radius"
+msgstr ""
+
+#: includes/portfolio_settings.php:2724
+msgid "Button Icon Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:2728
+msgid "This color used for example button icon color."
+msgstr ""
+
+#: includes/portfolio_settings.php:2733
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/portfolio_settings.php:2737
+msgid "This color used for example button icon background color."
+msgstr ""
+
+#: includes/shortcode.php:47
+msgid "It is not a valid portfolio shortcode"
+msgstr ""
+
+#: includes/shortcode.php:374
+msgid "No post found."
+msgstr ""
+
+#: portfolio-designer-lite.php:160 portfolio-designer-lite.php:177
+#: portfolio-designer-lite.php:179 portfolio-designer-lite.php:737
+msgid "Portfolio Designer Lite"
+msgstr ""
+
+#: portfolio-designer-lite.php:164
+msgid "Content"
+msgstr ""
+
+#: portfolio-designer-lite.php:166
+msgid "Add Portfolio Designer Shortcode"
+msgstr ""
+
+#: portfolio-designer-lite.php:181
+msgid "Portfolio designer Lite Settings"
+msgstr ""
+
+#: portfolio-designer-lite.php:199
+msgid "Hi there!"
+msgstr ""
+
+#: portfolio-designer-lite.php:200
+msgid ""
+"Don't ever miss an opportunity to opt in for Email Notifications / "
+"Announcements about exciting New Features and Update Releases."
+msgstr ""
+
+#: portfolio-designer-lite.php:201
+msgid ""
+"Contribute in helping us making our plugin compatible with most plugins and "
+"themes by allowing to share non-sensitive information about your website."
+msgstr ""
+
+#: portfolio-designer-lite.php:202
+msgid "Email Address for Notifications"
+msgstr ""
+
+#: portfolio-designer-lite.php:204
+msgid "If you're not ready to Opt-In, that's ok too!"
+msgstr ""
+
+#: portfolio-designer-lite.php:205
+msgid "Portfolio Designer will still work fine."
+msgstr ""
+
+#: portfolio-designer-lite.php:206
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: portfolio-designer-lite.php:212
+msgid "User Details"
+msgstr ""
+
+#: portfolio-designer-lite.php:213
+msgid "Name and Email Address"
+msgstr ""
+
+#: portfolio-designer-lite.php:219
+msgid "Current Plugin Status"
+msgstr ""
+
+#: portfolio-designer-lite.php:220
+msgid "Activation, Deactivation and Uninstall"
+msgstr ""
+
+#: portfolio-designer-lite.php:228
+msgid "Notifications"
+msgstr ""
+
+#: portfolio-designer-lite.php:229
+msgid "Updates & Announcements"
+msgstr ""
+
+#: portfolio-designer-lite.php:235
+msgid "Website Overview"
+msgstr ""
+
+#: portfolio-designer-lite.php:236
+msgid "Site URL, WP Version, PHP Info, Plugins & Themes Info"
+msgstr ""
+
+#: portfolio-designer-lite.php:243 portfolio-designer-lite.php:986
+msgid ""
+"By clicking this button, you agree with the storage and handling of your "
+"data as mentioned above by this website. (GDPR Compliance)"
+msgstr ""
+
+#: portfolio-designer-lite.php:248 portfolio-designer-lite.php:998
+msgid "Skip"
+msgstr ""
+
+#: portfolio-designer-lite.php:250 portfolio-designer-lite.php:257
+msgid "Continue"
+msgstr ""
+
+#: portfolio-designer-lite.php:255
+msgid "Opt-In"
+msgstr ""
+
+#: portfolio-designer-lite.php:270 portfolio-designer-lite.php:272
+msgid "Portfolios"
+msgstr ""
+
+#: portfolio-designer-lite.php:271 portfolio-designer-lite.php:273
+msgid "Portfolio"
+msgstr ""
+
+#: portfolio-designer-lite.php:274
+msgid "Add New"
+msgstr ""
+
+#: portfolio-designer-lite.php:275
+msgid "Add New Portfolio"
+msgstr ""
+
+#: portfolio-designer-lite.php:276
+msgid "New Portfolio"
+msgstr ""
+
+#: portfolio-designer-lite.php:277
+msgid "Edit Portfolio"
+msgstr ""
+
+#: portfolio-designer-lite.php:279
+msgid "All Portfolios"
+msgstr ""
+
+#: portfolio-designer-lite.php:280
+msgid "Search Portfolio"
+msgstr ""
+
+#: portfolio-designer-lite.php:281
+msgid "Parent "
+msgstr ""
+
+#: portfolio-designer-lite.php:282
+msgid "No Portfolio found"
+msgstr ""
+
+#: portfolio-designer-lite.php:283
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: portfolio-designer-lite.php:305
+msgid "Portfolio Categories"
+msgstr ""
+
+#: portfolio-designer-lite.php:314
+msgid "Portfolio Tags"
+msgstr ""
+
+#: portfolio-designer-lite.php:364
+msgid "Oops, nothing found!"
+msgstr ""
+
+#: portfolio-designer-lite.php:365
+msgid "The Portfolio Layout will be deleted. Are you sure?"
+msgstr ""
+
+#: portfolio-designer-lite.php:366
+msgid "The Portfolio Layout will be duplicated. Are you sure?"
+msgstr ""
+
+#: portfolio-designer-lite.php:367
+msgid "Do you want to reset data?"
+msgstr ""
+
+#: portfolio-designer-lite.php:404
+msgid "Select Taxonomy"
+msgstr ""
+
+#: portfolio-designer-lite.php:420
+msgid ""
+"Select the taxonomy that you would like use in post query and for filtering."
+msgstr ""
+
+#: portfolio-designer-lite.php:469 portfolio-designer-lite.php:574
+msgid "Terms"
+msgstr ""
+
+#: portfolio-designer-lite.php:472
+msgid "Choose Terms"
+msgstr ""
+
+#: portfolio-designer-lite.php:481
+msgid ""
+"Select the terms that you would like to use in post query and for filtering "
+"(if the portfolio is filterable)."
+msgstr ""
+
+#: portfolio-designer-lite.php:577
+msgid "Choose Categories"
+msgstr ""
+
+#: portfolio-designer-lite.php:586
+msgid ""
+"Select the terms that you would like use in post query and for filtering (if "
+"the porfolio is filterable)."
+msgstr ""
+
+#: portfolio-designer-lite.php:605
+msgid "Label of URL"
+msgstr ""
+
+#: portfolio-designer-lite.php:606
+msgid "Website"
+msgstr ""
+
+#: portfolio-designer-lite.php:609
+msgid "Provide URL"
+msgstr ""
+
+#: portfolio-designer-lite.php:619
+msgid "Project URL"
+msgstr ""
+
+#: portfolio-designer-lite.php:716
+msgid "Please share this article in mobile device"
+msgstr ""
+
+#: portfolio-designer-lite.php:736
+msgid "If you like "
+msgstr ""
+
+#: portfolio-designer-lite.php:738
+msgid "please leave us a"
+msgstr ""
+
+#: portfolio-designer-lite.php:740
+msgid "rating. A huge thank you from Solwin Infotech in advance!"
+msgstr ""
+
+#: portfolio-designer-lite.php:774
+msgid "View Portfolio Designer Lite Settings"
+msgstr ""
+
+#: portfolio-designer-lite.php:774
+msgid "Settings"
+msgstr ""
+
+#: portfolio-designer-lite.php:777
+msgid "Documentation"
+msgstr ""
+
+#: portfolio-designer-lite.php:778
+msgid "Upgrade"
+msgstr ""
+
+#: portfolio-designer-lite.php:788
+msgid "Please fill up all requred fields."
+msgstr ""
+
+#: portfolio-designer-lite.php:804 portfolio-designer-lite.php:808
+msgid "Featured Image"
+msgstr ""
+
+#: portfolio-designer-lite.php:939
+msgid ""
+"If you have a moment, please let us know why you are deactivating. We would "
+"like to help you in fixing the issue."
+msgstr ""
+
+#: portfolio-designer-lite.php:945
+msgid "I am going to upgrade to PRO version"
+msgstr ""
+
+#: portfolio-designer-lite.php:950
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: portfolio-designer-lite.php:955
+msgid "The plugin was not working"
+msgstr ""
+
+#: portfolio-designer-lite.php:960
+msgid "Installed & configured well but disturbed my portfolio page design"
+msgstr ""
+
+#: portfolio-designer-lite.php:965
+msgid "My theme's portfolio page is better than plugin's portfolio page design"
+msgstr ""
+
+#: portfolio-designer-lite.php:970
+msgid "The plugin broke my site completely"
+msgstr ""
+
+#: portfolio-designer-lite.php:975
+msgid "No any reason"
+msgstr ""
+
+#: portfolio-designer-lite.php:980
+msgid "Other"
+msgstr ""
+
+#: portfolio-designer-lite.php:990
+msgid "Submit"
+msgstr ""
+
+#: portfolio-designer-lite.php:992 portfolio-designer-lite.php:1000
+msgid "Deactivate"
+msgstr ""
+
+#: portfolio-designer-lite.php:995
+msgid "Cancel"
+msgstr ""
+
+#: portfolio-designer-lite.php:996
+msgid "Deactivate Portfolio Designer"
+msgstr ""
+
+#: portfolio-designer-lite.php:1005
+msgid "Would you like to give us a chance to help you?"
+msgstr ""
+
+#: portfolio-designer-lite.php:1007
+msgid "Create a support ticket"
+msgstr ""

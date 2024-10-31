@@ -1,0 +1,274 @@
+#wpbody-content .pdl-admin .updated {
+	padding-left: 40px;
+}
+.pull-left {
+	float: right;
+}
+.pull-right {
+	float: left;
+}
+.pdl-settings-wrappers .postbox {
+	float: left;
+}
+.pdl-admin {
+	padding-right: 0;
+	padding-left: 20px;
+}
+.pdl-header-wrapper .pull-right {
+	text-align: left;
+}
+.pdl-menu-setting > ul > li i {
+	float: right;
+	margin-left: 10px;
+	margin-right: 5px;
+}
+.pdl-menu-setting > ul > li {
+	text-align: right;
+}
+.ui-buttonset .ui-button {
+	float: right;
+}
+.chosen-container-single .chosen-single div {
+	left: 0 !important;
+	right: auto;
+}
+#wpbody-content {
+	overflow: hidden !important;
+}
+.select-cover .chosen-container-single .chosen-single div b {
+    background-position: 5px 10px;
+}
+.pdl-admin .input-number-cover input {
+	float: right;
+}
+.filter_text_border .input-number-cover,
+.filter_text_padding .input-number-cover {
+	margin-left: 1%;
+	margin-right: 0;
+}
+.pdl-admin .pdltab .filter_text_border > .set-background .wp-picker-container {
+	right: 0;
+	left: auto;
+}
+.pdl-admin .input-number-button {
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+    border-left: 0px solid #dddddd;
+    border-right: 1px solid #dddddd;
+}
+.input-number-button.number-up {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 0;
+}
+.chosen-container-multi .chosen-choices li {
+	float: right;
+}
+.pdl-settings-wrappers .portfolio_simple_layout .small-select {
+	float: left;
+}
+.pdl-settings-wrappers .small-select, .font_size_cover .font-size-cover {
+	margin-left: 10px;
+	margin-right: 0px;
+}
+fieldset.pdl-social-options {
+	margin-left: 7px;
+	margin-right: 0;
+}
+.pdl-settings-wrappers .postbox strong, .pdl-settings-wrappers .postbox b {
+	float: right;
+	margin-left: 3px;
+}
+.select-cover.font-size-cover {
+	float: left;
+}
+.slide_val {
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.portfolio_popup_tr .button {
+	margin-left: 10px;
+	margin-right: 0px;
+}
+.select-cover.font-size-cover {
+	float: right;
+}
+.pdl-settings-wrappers .postbox b {
+	float: right;
+}
+.pdl-typography-wrapper .pdl-typography-cover {
+	float: right;
+}
+.wp-picker-container .wp-color-result.button {
+	padding: 0px 10px 0px 30px !important;
+}
+.pdl-admin button.wp-color-result span.color-alpha {
+	right: auto !important;
+	left: 0 !important;
+	margin: 12px 0px 12px 12px;
+}
+.pdl-admin button.wp-color-result span.wp-color-result-text {
+	border-right: none !important;
+}
+.portfolio_default_image_holder {
+	float: right;
+}
+.portfolio_default_image_holder img {
+	margin-right: 0;
+	margin-left: 15px;
+}
+.ui-buttonset .ui-button.ui-state-active span {
+	background: #3bc391;
+}
+.ui-buttonset .ui-button.ui-state-active.ui-corner-left span {
+	background: #ff4c4c;
+}
+.ui-buttonset .ui-button.ui-state-active.ui-corner-left {
+	border: 1px solid #b6b6b6;
+}
+.ui-buttonset .ui-button.ui-state-active.ui-corner-left {
+	border-left: 1px solid #ff4c4c !important;
+}
+
+@media screen and (max-width: 480px) {
+	.pdl-menu-setting {
+		max-width: 40px;
+	}
+	.pdl-settings-wrappers .postbox {
+		width: calc(100% - 40px);
+	}
+	.pdl-menu-setting > ul > li {
+		line-height: 20px;
+		padding: 10px;
+	}
+	.pdl-menu-setting > ul > li i {
+		margin: 0px;
+	}
+	.pdl-menu-setting > ul > li span {
+		display: none;
+	}
+	.pdl-header-wrapper {
+		display: inline-block;
+		width: 100%;
+	}
+	.pdl-header-wrapper .pull-left,
+	.pdl-header-wrapper .pull-right {
+		display: inline-block;
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.pdl-header-wrapper .button {
+   	    margin-left: 0px !important;   
+	}
+	.pdl-form-class #portdesignquery .inside input[type="text"] {
+		min-width: auto !important;
+	}
+
+	.pdltab .filter_text_padding > span {
+		width: 100%;
+	}
+}
+
+@media screen and (min-width: 481px) and (max-width: 767px) {
+	.pdl-menu-setting {
+		max-width: 100px;
+	}
+	.pdl-settings-wrappers .postbox {
+		width: calc(100% - 100px);
+	}
+	.pdl-menu-setting > ul > li {
+		line-height: 20px;
+		padding: 15px;
+		text-align: center;
+	}
+	.pdl-menu-setting > ul > li i {
+		margin: 0px;
+		float: none;
+	}
+	.pdl-menu-setting > ul > li span {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 1200px) {
+	.pdl-admin {
+		padding-left: 10px;
+	}
+	.pdltab .inside table {
+		margin: 0;
+	}
+	#portdesignstyle .inside table tr,
+	.pdltab .inside table tr {
+		display: inline-block;
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.pdl-admin .pdltab .filter_text_border > .set-background .wp-picker-container {
+		position: relative;
+	}
+	#portdesignstyle .inside table tr td,
+	.pdltab .inside table td {
+		display: inline-block;
+		width: 100%;
+		padding: 10px 0;
+	}
+	.pdl-form-class #portdesigngeneral .chosen-container,
+	.pdl-form-class #portdesignquery .chosen-container,
+	.pdl-form-class #portdesignlayout tr:not(.portfolio_simple_layout) .chosen-container,
+	.pdl-form-class #portdesignpagination .chosen-container,
+	.pdl-form-class #portdesignfilter .inside input[type="text"],
+	.pdl-form-class #pdlsocial .chosen-container,
+	.pdl-form-class #portdesignstyle .chosen-container,
+	.pdl-form-class #portdesignthumbnail .chosen-container,
+	.pdl-settings-wrappers .font_size_cover .pull-left {
+		max-width: 400px;
+		min-width: 230px;
+	}
+	.pdl-form-class #portdesignstyle .font_size_cover .pro-feature .chosen-container,
+	.pdl-form-class #portdesignstyle .font_size_cover .chosen-container,
+	.pdl-form-class #portdesignstyle .font_size_cover .input-number-cover,
+	.pdl-form-class #portdesignthumbnail .font_size_cover .chosen-container,
+	.pdl-form-class #portdesignthumbnail .font_size_cover .input-number-cover {
+		max-width: inherit;
+		min-width: inherit;
+	}
+	.pdl-form-class #portdesignquery .inside input[type="text"],
+	.pdl-form-class #portdesignquery .input-number-cover,
+	.pdl-form-class #portdesignthumbnail .input-number-cover,
+	.pdl-form-class #portdesignstyle .input-number-cover {
+		max-width: 400px;
+		min-width: 230px;
+	}
+	.pdl-form-class #portdesignquery .chosen-container {
+		width: auto !important;
+	}
+	#portdesignstyle .inside table tr td:first-child,
+	.pdltab .inside table td:first-child,
+	.pdltab .inside table.pdl-social-theme td:first-child,
+	.pdl-typography-wrapper .pdl-typography-cover .pdl-label,
+	.pdl-typography-wrapper .pdl-typography-cover .select-cover,
+	#pdlsocial .typo-field,
+	.pdl-form-class #portdesignstyle .pdl-typography-wrapper .pdl-typography-cover {
+		display: inline-block;
+		width: 100%;
+	}
+	.pdl-typography-cover:nth-child(3n) {
+    	padding-right: 15px;
+	}
+	.pdl-typography-wrapper .pdl-typography-cover {
+		margin: 10px 0;
+		padding: 10px 0;
+	}
+	.social-cover {
+		margin-right: 0;
+	}
+	.pdl-form-class #portdesignstyle .filter_text_border .input-number-cover,
+	.pdl-form-class #portdesignstyle .filter_text_border .chosen-container {
+		min-width: auto;
+	}
+	.pdltab .filter_text_border > .set-background {
+		width: auto;
+	}
+	.pdl-admin .pdltab .filter_text_border > .set-background .wp-picker-container {
+		width: auto;
+	}
+}
